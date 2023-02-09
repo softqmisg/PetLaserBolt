@@ -13,7 +13,7 @@
 #define MAX_X           35
 #define MIN_Y           0
 #define MAX_Y           40
-#define MIN_DELAY       600
+#define MIN_DELAY       100
 #define MAX_DELAY       3000
 #define MIN_MOVMENTTIME 10
 #define MAX_MOVMENTTIME 40
